@@ -7,7 +7,7 @@ public class arr1 {
             arr1[i] = y;
         }
         for(int i = 0; i<arr1.length; i++){
-            System.out.print(arr1[i]+" ");
+            System.out.print(arr1[i]+" ");  
         }
     }
 }
